@@ -1,0 +1,222 @@
+﻿++Solution 'Assignment2' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Assignment2.sln
+++Assignment2
+i:{00000000-0000-0000-0000-000000000000}:Assignment2
+++Properties
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\properties\
+++References
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++App_Data
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\app_data\
+++App_Start
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\app_start\
+++Content
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\
+++Controllers
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\controllers\
+++fonts
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\fonts\
+++Migrations
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\migrations\
+++Models
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\models\
+++MyDataBase
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\mydatabase\
+++Scripts
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\
+++Views
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\
+++Home
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\home\
+++Shared
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\shared\
+++Trainer
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\trainer\
+++_ViewStart.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\_viewstart.cshtml
+++Web.config
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\web.config
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\web.config
+++favicon.ico
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\favicon.ico
+++Global.asax
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\global.asax
+++packages.config
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\packages.config
+++AssemblyInfo.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++EntityFramework
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++EntityFramework.SqlServer
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++Microsoft.CSharp
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++Microsoft.Web.Infrastructure
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++Newtonsoft.Json
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++PagedList
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++PagedList.Mvc
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.ComponentModel.DataAnnotations
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Configuration
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Core
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Data
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Data.DataSetExtensions
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Drawing
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.EnterpriseServices
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Net.Http
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Net.Http.WebRequest
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Abstractions
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.ApplicationServices
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.DynamicData
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Entity
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Extensions
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Helpers
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Mvc
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Optimization
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Razor
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Routing
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.Services
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.WebPages
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.WebPages.Deployment
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Web.WebPages.Razor
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Xml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++System.Xml.Linq
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++WebGrease
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:
+++BundleConfig.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\app_start\routeconfig.cs
+++bootstrap-theme.css
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\bootstrap.css
+++bootstrap.css.map
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\bootstrap.css.map
+++bootstrap.min.css
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\bootstrap.min.css.map
+++PagedList.css
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\pagedlist.css
+++Site.css
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\content\site.css
+++HomeController.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\controllers\homecontroller.cs
+++TrainerController.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\controllers\trainercontroller.cs
+++glyphicons-halflings-regular.eot
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\fonts\glyphicons-halflings-regular.woff2
+++Configuration.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\migrations\configuration.cs
+++Trainer.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\models\trainer.cs
+++ApplicationDbContext.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\mydatabase\applicationdbcontext.cs
+++bootstrap.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\bootstrap.js
+++bootstrap.min.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\scripts\modernizr-2.8.3.js
+++About.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\home\about.cshtml
+++Contact.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\home\contact.cshtml
+++Index.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\home\index.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\trainer\index.cshtml
+++_Layout.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\shared\_layout.cshtml
+++Error.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\shared\error.cshtml
+++Create.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\trainer\create.cshtml
+++Delete.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\trainer\delete.cshtml
+++Details.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\trainer\details.cshtml
+++Edit.cshtml
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\views\trainer\edit.cshtml
+++Global.asax.cs
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\global.asax.cs
+++Web.Debug.config
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\web.debug.config
+++Web.Release.config
+i:{b7df43d9-9495-449c-8a81-df76459f780f}:f:\bootcamp\test c#\assignment2\web.release.config

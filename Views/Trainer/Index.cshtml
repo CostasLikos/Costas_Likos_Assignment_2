@@ -1,0 +1,61 @@
+﻿@model PagedList.IPagedList<Assignment2.Models.Trainer>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Trainers";
+}
+
+
+<h1>Assignment 2</h1>
+<h2>Trainers</h2>
+<h4>CRUD opperations</h4>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@*search bar*@
+@using (Html.BeginForm("Index", "Trainer", FormMethod.Get))
+{
+    <p>
+        Search by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Salary", "Index", new { sortOrder = ViewBag.SalarySortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Actions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.TrainerId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.TrainerId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.TrainerId })
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
